@@ -1,3 +1,6 @@
+/* 	Author: Barışcan KURTKAYA
+	E-mail:bariscankurtkaya@gmail.com	*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
